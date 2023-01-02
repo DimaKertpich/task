@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Poppins:wght@300;400;500&display=swap');
+
+@mixin poppinsLight{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+@mixin poppinsRegular{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+@mixin poppinsMedium{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+@mixin montsseratRegular{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+@mixin montsseratMedium{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
