@@ -39,10 +39,6 @@ export default{
             currentlyItem: '',
             activeCurrentlyItem: false
         }
-    },
-
-    async mounted(){
-        await this.$store.dispatch('getProducts')
     },  
 
     methods:{

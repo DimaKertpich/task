@@ -23,7 +23,6 @@ section
                                
                     
 </template>
-<!-- men's clothing -->
 <script>
 
 export default{
@@ -140,7 +139,7 @@ export default{
 
         &__products-price{
             box-sizing: border-box;
-            margin-top: 60px;
+            margin-top: 100px;
 
             span{
                 @include montsseratRegular();
